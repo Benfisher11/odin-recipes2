@@ -2,6 +2,12 @@
     height: auto;
     width: 300px;
 }
+h1{
+    font-style: italic;
+}
 div{
     background-color: palevioletred;
+}
+p{
+    background-color: aqua;
 }
